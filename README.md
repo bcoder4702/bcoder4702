@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bitthal verma
 - 👀 A Programmer and a Web developer
-- 🌱 Yeah,I know we can do amazing things tigether So let's connect @
+- 🌱 Yeah,I know we can do amazing things together So let's connect @
 - 📫https://www.linkedin.com/in/bitthal-verma-17383520a/
 
 <!---

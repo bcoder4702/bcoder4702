@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Mern, Web 3.0, Data structures**
 
-- 📫 How to reach me **bverma4702@gmail.com**
+- 📫 I am looking for Mern projects.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QdFhyZzPRZ_MajV0GekAf7sN6QZq6P3y/view?usp=sharing](https://drive.google.com/file/d/1QdFhyZzPRZ_MajV0GekAf7sN6QZq6P3y/view?usp=sharing)
+- 📄How to reach me **bverma4702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

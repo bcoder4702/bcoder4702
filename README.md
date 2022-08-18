@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@verma_bitthal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@verma_bitthal" height="30" width="40" /></a>
+<a href="https://twitter.com/verma_bitthal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@verma_bitthal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bitthal-verma-17383520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bitthal-verma-17383520a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vermabitthal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vermabitthal/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/bcoder4702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bcoder4702/" height="30" width="40" /></a>

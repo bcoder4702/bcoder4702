@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **React JS and Node Js**
 
-- 👨‍💻 LinkTree [bcoder4702.github.io/linktree/](bcoder4702.github.io/linktree/)
+- 👨‍💻 LinkTree [bcoder4702.github.io/linktree/](https://bcoder4702.github.io/Linktreee/)
 
 - 💬 Ask me about **Mern, Web 3.0, Data structures**
 

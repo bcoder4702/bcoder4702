@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Bitthal verma</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React JS and Node Js**
+- 🌱 I’m currently learning **Backend Scaling**
 
 - 👨‍💻 LinkTree [bcoder4702.github.io/linktree/](https://bcoder4702.github.io/Linktreee/)
 
-- 💬 Ask me about **Mern, Web 3.0, Data structures**
+- 💬 Ask me about **Mern, Web 3.0, Data structures,Devops**
 
-- 📫 I am looking for Mern projects.
+- 📫 I am looking for awesome web projects.
 
 - 📄How to reach me **bverma4702@gmail.com**
 

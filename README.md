@@ -24,11 +24,11 @@
 I code, learn, and iterate 👨‍💻
 - 👨‍💻 &nbsp; A True Backend maniac.
 - 🗄️ &nbsp; Specialised in Backend stuff.
-- 🛠 &nbsp; Mostly spends time with JavaScript,React,Go and C++.
+- 🛠 &nbsp; Mostly spends time with JavaScript,React,Solidity and C++.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working on learning more on backend stuff.
+- 🛠 &nbsp; I’m currently working on learning more on Web3.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bcoder4702?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/bitthal-verma-17383520a/)! I am happy to help.
 - 📫 &nbsp; How to reach me: bverma4702@gmail.com.

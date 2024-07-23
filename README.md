@@ -6,7 +6,7 @@
     I'm Bitthal Verma
 </h2>
 <p>
-    <em style="position: relative; bottom: 7px;"> Your Nearby Software Engineer </em>
+    <em style="position: relative; bottom: 7px;"> Your Nearby Software Developer </em>
 </p>
 
 
